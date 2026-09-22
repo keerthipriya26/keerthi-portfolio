@@ -49,7 +49,7 @@ keerthi-portfolio/
 ## 📧 Contact
 
 - **Email**: keerthipriyakota@example.com
-- **LinkedIn**: [linkedin.com/in/keerthipriya26](https://linkedin.com/in/keerthipriya26)
+- **LinkedIn**: [linkedin.com/in/kota-keerthi-priya-700614225](https://www.linkedin.com/in/kota-keerthi-priya-700614225/)
 - **GitHub**: [github.com/keerthipriya26](https://github.com/keerthipriya26)
 
 ## 📝 License
