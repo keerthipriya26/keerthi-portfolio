@@ -244,6 +244,10 @@ body {
     box-shadow: var(--shadow-md);
 }
 
+.social-links a i {
+    pointer-events: none;
+}
+
 .social-links a:hover {
     background: var(--gradient-primary);
     color: white;
@@ -743,6 +747,10 @@ section {
     border: 2px solid var(--border-color);
     font-weight: 600;
     transition: var(--transition);
+}
+
+.contact-btn i {
+    pointer-events: none;
 }
 
 .contact-btn:hover {
